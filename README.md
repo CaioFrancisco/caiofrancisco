@@ -5,7 +5,7 @@
 ---
 
 ## 💡 Sobre mim
-Estudante de **Engenharia de Software** com paixão por **Desenvolvimento Backend** e **Análise de Dados**.  
+Estudante de **Engenharia de Software** com paixão por **Desenvolvimento Backend**.  
 Adoro transformar ideias em sistemas funcionais e dados em insights estratégicos.  
 Sempre buscando **aprimorar minhas habilidades e aprender novas tecnologias**, meu foco é construir **soluções escaláveis, inteligentes e que realmente façam a diferença**.
 
@@ -30,30 +30,6 @@ Sempre buscando **aprimorar minhas habilidades e aprender novas tecnologias**, m
 **Bancos de Dados:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)  
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=flat-square&logo=mongodb&logoColor=white)  
-
----
-
-### 📊 Análise de Dados
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)  
-
-**Bibliotecas / Frameworks:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square)  
-
-**Bancos de Dados:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=flat-square&logo=mongodb&logoColor=white)  
-
-**ETL & Ferramentas de Análise:**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)  
 
 ---
 
