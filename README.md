@@ -1,42 +1,45 @@
-#   Hi, I am Caio! | Software Engineer 👋
+# 👋 Hello, I'm Caio
 
-![hacker programming GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk1cmlrM2Q3bGp1aXRsc2IyaXViNjl2NjgzcGFvNHA1MGdlbGp5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif)  
-
----
-
-## 💡 About Me
-Software Engineering student with a passion for **Backend Development**.  
-I love transforming ideas into functional systems and data into strategic insights.  
-Always looking to **sharpen my skills and learn new technologies**, my focus is on building **scalable, intelligent solutions that truly make a difference**.
+Sou um desenvolvedor backend em formação, focado em criar aplicações estáveis, seguras e bem estruturadas.  
+Estudo diariamente para dominar os fundamentos que realmente constroem um backend forte, moderno e escalável.
 
 ---
 
-## 🛠 Skills
+## 🚀 Tecnologias que estudo e utilizo
 
-### 💻 Web Backend
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+### **Linguagens**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-**Frameworks / Runtime:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-
-**APIs:**  
-![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
-
-**Databases:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=flat-square&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:caio.chiarellodev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+## 🔧 Habilidades Backend em construção
+
+- Estruturas de dados e lógica de programação  
+- Programação orientada a objetos (POO)  
+- Criação e consumo de APIs REST  
+- Boas práticas de arquitetura  
+- Versionamento com Git e GitHub  
+- Conceitos de autenticação, sessões e segurança  
+- Modelagem e persistência de dados  
+- Organização e limpeza de código
 
 ---
 
-**Let's connect and transform ideas into real solutions!**
+## 🎯 Objetivo
+Evoluir como desenvolvedor backend, contribuir para projetos reais e construir uma base técnica sólida para os próximos passos da carreira.
+
+---
+
+## 🌱 Sobre mim
+Gosto de aprender rápido, resolver problemas e transformar ideias em soluções de verdade.  
+Cada linha de código é um passo rumo ao dev que quero me tornar.
+
+---
+
+## 📬 Contato
+
+- **Email:** caio.chiarellodev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/caio-chiarello-6b1665394/?skipRedirect=true
